@@ -34,4 +34,4 @@ npm run dev
 *Apu Ray*
 B.Tech CSE Student
 Sharda University
-GitHub: https://github.com/rayapu776-u
+GitHub: https://github.com/rayapu776-ui
